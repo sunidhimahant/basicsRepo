@@ -1,3 +1,6 @@
+// 28th sep 2020
+// initialization_list
+
 #include <iostream>
 using namespace std;
 class alpha
